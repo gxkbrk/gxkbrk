@@ -7,23 +7,23 @@
 </p>
 
 <p align="center">
-  I build Discord bots, small web tools and automations –<br />
-  and host them on my own server.
+  Music on repeat, games till late and always down to chat –<br />
+  say hi on Discord.
 </p>
 
 <br />
 
 <p align="center">
   <a href="https://gxkbrk.xyz/discorduser"><img src="assets/buttons/discord.svg" alt="Discord" /></a>
-  <a href="https://gxkbrk.xyz/twitter"><img src="assets/buttons/x.svg" alt="X" /></a>
-  <a href="https://gxkbrk.xyz/twitch"><img src="assets/buttons/twitch.svg" alt="Twitch" /></a>
   <a href="https://gxkbrk.xyz/instagram"><img src="assets/buttons/instagram.svg" alt="Instagram" /></a>
-  <a href="https://gxkbrk.xyz/youtube"><img src="assets/buttons/youtube.svg" alt="YouTube" /></a>
-  <br />
-  <a href="https://gxkbrk.xyz/tiktok"><img src="assets/buttons/tiktok.svg" alt="TikTok" /></a>
-  <a href="https://gxkbrk.xyz/github"><img src="assets/buttons/github.svg" alt="GitHub" /></a>
+  <a href="https://gxkbrk.xyz/botify"><img src="assets/buttons/botify.svg" alt="Botify – Add to Discord" /></a>
   <a href="https://gxkbrk.xyz/spotify"><img src="assets/buttons/spotify.svg" alt="Spotify" /></a>
-  <a href="https://gxkbrk.xyz/botify"><img src="assets/buttons/botify.svg" alt="Botify" /></a>
+  <a href="https://gxkbrk.xyz/twitch"><img src="assets/buttons/twitch.svg" alt="Twitch" /></a>
+  <br />
+  <a href="https://gxkbrk.xyz/twitter"><img src="assets/buttons/x.svg" alt="X" /></a>
+  <a href="https://gxkbrk.xyz/tiktok"><img src="assets/buttons/tiktok.svg" alt="TikTok" /></a>
+  <a href="https://gxkbrk.xyz/youtube"><img src="assets/buttons/youtube.svg" alt="YouTube" /></a>
+  <a href="https://gxkbrk.xyz/github"><img src="assets/buttons/github.svg" alt="GitHub" /></a>
 </p>
 
 <br />
