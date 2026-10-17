@@ -7,13 +7,6 @@
 </p>
 
 <p align="center">
-  probably listening to music right now.<br />
-  made Botify. you should probably add it.
-</p>
-
-<br />
-
-<p align="center">
   <a href="https://gxkbrk.xyz/discorduser"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/discord-light.svg" /><img src="assets/buttons/discord.svg" alt="Discord" /></picture></a>
   <a href="https://gxkbrk.xyz/instagram"><picture><source media="(prefers-color-scheme: light)" srcset="assets/buttons/instagram-light.svg" /><img src="assets/buttons/instagram.svg" alt="Instagram" /></picture></a>
   <a href="https://gxkbrk.xyz/botify"><img src="assets/buttons/botify.svg" alt="Botify – Add to Discord" /></a>
