@@ -16,8 +16,6 @@
       <animate attributeName="x" values="-70;-70;144" keyTimes="0;0.75;1" dur="5s" repeatCount="indefinite"/>
     </rect>
   </g>
-  <g transform="translate(14 12)" fill="none" stroke="#a970ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4 4h16v12h-6l-3 3v-3H4zM10 8v4M15 8v4" transform="scale(0.8333)"/>
-  </g>
+  <g transform="translate(14 12) scale(0.8333)" fill="#a970ff"><path d="M11.571 4.714h1.715v5.143H11.57zm4.715 0H18v5.143h-1.714zM6 0L1.714 4.286v15.428h5.143V24l4.286-4.286h3.428L22.286 12V0zm14.571 11.143l-3.428 3.428h-3.429l-3 3v-3H6.857V1.714h13.714Z"/></g>
   <text x="65.0" y="27" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Twitch</text>
 </svg>
