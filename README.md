@@ -39,8 +39,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gxkbrk&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=400&amp;line_height=55&amp;border_radius=10&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=3d59a1&amp;icon_color=3d59a1&amp;text_color=1f2328&amp;ring_color=3d59a1" />
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gxkbrk&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=400&amp;line_height=55&amp;border_radius=10&amp;theme=tokyonight&amp;bg_color=151b23&amp;border_color=2a323d" alt="GitHub stats" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gxkbrk&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=440&amp;line_height=55&amp;border_radius=10&amp;bg_color=ffffff&amp;border_color=d0d7de&amp;title_color=3d59a1&amp;icon_color=3d59a1&amp;text_color=1f2328&amp;ring_color=3d59a1" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gxkbrk&amp;show_icons=true&amp;count_private=true&amp;include_all_commits=true&amp;custom_title=GitHub%20Stats&amp;card_width=440&amp;line_height=55&amp;border_radius=10&amp;theme=tokyonight&amp;bg_color=151b23&amp;border_color=2a323d" alt="GitHub stats" />
   </picture>
   <a href="https://gxkbrk.xyz/spotify"><picture>
     <source media="(prefers-color-scheme: light)" srcset="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=o8ngc9y3yfg033qpiglxhmobh&amp;duration=1&amp;theme=light" />
