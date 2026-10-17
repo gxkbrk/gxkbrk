@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  Music on repeat, games till late and always down to chat –<br />
-  say hi on Discord.
+  probably listening to music right now.<br />
+  made Botify. you should probably add it.
 </p>
 
 <br />
