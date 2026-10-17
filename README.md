@@ -18,9 +18,9 @@
   <a href="https://gxkbrk.xyz/instagram"><img src="assets/buttons/instagram.svg" alt="Instagram" /></a>
   <a href="https://gxkbrk.xyz/botify"><img src="assets/buttons/botify.svg" alt="Botify – Add to Discord" /></a>
   <a href="https://gxkbrk.xyz/spotify"><img src="assets/buttons/spotify.svg" alt="Spotify" /></a>
-  <a href="https://gxkbrk.xyz/twitch"><img src="assets/buttons/twitch.svg" alt="Twitch" /></a>
-  <br />
   <a href="https://gxkbrk.xyz/twitter"><img src="assets/buttons/x.svg" alt="X" /></a>
+  <br />
+  <a href="https://gxkbrk.xyz/twitch"><img src="assets/buttons/twitch.svg" alt="Twitch" /></a>
   <a href="https://gxkbrk.xyz/tiktok"><img src="assets/buttons/tiktok.svg" alt="TikTok" /></a>
   <a href="https://gxkbrk.xyz/youtube"><img src="assets/buttons/youtube.svg" alt="YouTube" /></a>
   <a href="https://gxkbrk.xyz/github"><img src="assets/buttons/github.svg" alt="GitHub" /></a>
