@@ -1,27 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="46" viewBox="0 0 160 46" role="img" aria-label="Linktree">
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="44" viewBox="0 0 116 44" role="img" aria-label="Linktree">
   <title>Linktree</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#43E55E" stop-opacity="0.28"/>
-      <stop offset="0.55" stop-color="#16161e" stop-opacity="1"/>
-      <stop offset="1" stop-color="#16161e" stop-opacity="1"/>
-    </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.13"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="clip"><rect x="0.75" y="0.75" width="158.5" height="44.5" rx="14"/></clipPath>
+    <clipPath id="clip"><rect x="0.75" y="0.75" width="114.5" height="42.5" rx="14"/></clipPath>
   </defs>
-  <rect x="0.75" y="0.75" width="158.5" height="44.5" rx="14" fill="#16161e"/>
-  <rect x="0.75" y="0.75" width="158.5" height="44.5" rx="14" fill="url(#bg)" stroke="#43E55E" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="114.5" height="42.5" rx="14" fill="#16161e"/>
+  <rect x="0.75" y="0.75" width="114.5" height="42.5" rx="14" fill="#43e660" fill-opacity="0.08" stroke="#43e660" stroke-opacity="0.35" stroke-width="1.5"/>
+  <path d="M15 1.5h86" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
   <g clip-path="url(#clip)">
-    <rect x="-70" y="0" width="60" height="46" fill="url(#shine)" transform="skewX(-20)">
-      <animate attributeName="x" values="-70;-70;200" keyTimes="0;0.7;1" dur="4.5s" repeatCount="indefinite"/>
+    <rect x="-70" y="0" width="50" height="44" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-70;-70;156" keyTimes="0;0.75;1" dur="5s" repeatCount="indefinite"/>
     </rect>
   </g>
-  <g transform="translate(16 12) scale(0.9166666666666666)">
-    <path d="m13.73635 5.85251 4.00467-4.11665 2.3248 2.3808-4.20064 4.00466h5.9085v3.30473h-5.9365l4.22865 4.10766-2.3248 2.3338L12.0005 12.099l-5.74052 5.76852-2.3248-2.3248 4.22864-4.10766h-5.9375V8.12132h5.9085L3.93417 4.11666l2.3248-2.3808 4.00468 4.11665V0h3.4727zm-3.4727 10.30614h3.4727V24h-3.4727z" fill="#43E55E"/>
+  <g transform="translate(14 12)" fill="none" stroke="#43e660" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12 21v-7M12 14l-6-6M12 14l6-6M12 10V3M8 6l4-3 4 3" transform="scale(0.8333)"/>
   </g>
-  <text x="50" y="28.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ffffff" letter-spacing="0.2">Linktree</text>
+  <text x="71.2" y="27" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Linktree</text>
 </svg>

@@ -1,27 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="160" height="46" viewBox="0 0 160 46" role="img" aria-label="YouTube">
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="44" viewBox="0 0 120 44" role="img" aria-label="YouTube">
   <title>YouTube</title>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#FF0000" stop-opacity="0.28"/>
-      <stop offset="0.55" stop-color="#16161e" stop-opacity="1"/>
-      <stop offset="1" stop-color="#16161e" stop-opacity="1"/>
-    </linearGradient>
     <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.13"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
     </linearGradient>
-    <clipPath id="clip"><rect x="0.75" y="0.75" width="158.5" height="44.5" rx="14"/></clipPath>
+    <clipPath id="clip"><rect x="0.75" y="0.75" width="118.5" height="42.5" rx="14"/></clipPath>
   </defs>
-  <rect x="0.75" y="0.75" width="158.5" height="44.5" rx="14" fill="#16161e"/>
-  <rect x="0.75" y="0.75" width="158.5" height="44.5" rx="14" fill="url(#bg)" stroke="#FF0000" stroke-opacity="0.55" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="118.5" height="42.5" rx="14" fill="#16161e"/>
+  <rect x="0.75" y="0.75" width="118.5" height="42.5" rx="14" fill="#ff5c57" fill-opacity="0.08" stroke="#ff5c57" stroke-opacity="0.35" stroke-width="1.5"/>
+  <path d="M15 1.5h90" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
   <g clip-path="url(#clip)">
-    <rect x="-70" y="0" width="60" height="46" fill="url(#shine)" transform="skewX(-20)">
-      <animate attributeName="x" values="-70;-70;200" keyTimes="0;0.7;1" dur="4.5s" repeatCount="indefinite"/>
+    <rect x="-70" y="0" width="50" height="44" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-70;-70;160" keyTimes="0;0.75;1" dur="5s" repeatCount="indefinite"/>
     </rect>
   </g>
-  <g transform="translate(16 12) scale(0.9166666666666666)">
-    <path d="M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z" fill="#FF0000"/>
+  <g transform="translate(14 12)" fill="none" stroke="#ff5c57" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M3 7a3 3 0 0 1 3-3h12a3 3 0 0 1 3 3v10a3 3 0 0 1-3 3H6a3 3 0 0 1-3-3zM10 9l5 3-5 3z" transform="scale(0.8333)"/>
   </g>
-  <text x="50" y="28.5" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="15" font-weight="600" fill="#ffffff" letter-spacing="0.2">YouTube</text>
+  <text x="72.9" y="27" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">YouTube</text>
 </svg>
