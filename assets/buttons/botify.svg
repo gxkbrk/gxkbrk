@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="101" height="44" viewBox="0 0 101 44" role="img" aria-label="Botify">
+  <title>Botify</title>
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.08"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="clip"><rect x="0.75" y="0.75" width="99.5" height="42.5" rx="14"/></clipPath>
+  </defs>
+  <rect x="0.75" y="0.75" width="99.5" height="42.5" rx="14" fill="#16161e"/>
+  <rect x="0.75" y="0.75" width="99.5" height="42.5" rx="14" fill="#ff9e64" fill-opacity="0.08" stroke="#ff9e64" stroke-opacity="0.35" stroke-width="1.5"/>
+  <path d="M15 1.5h71" stroke="#ffffff" stroke-opacity="0.07" stroke-width="1"/>
+  <g clip-path="url(#clip)">
+    <rect x="-70" y="0" width="50" height="44" fill="url(#shine)" transform="skewX(-20)">
+      <animate attributeName="x" values="-70;-70;141" keyTimes="0;0.75;1" dur="5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <g transform="translate(14 12)" fill="none" stroke="#ff9e64" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M5 9h14a2 2 0 0 1 2 2v7a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a2 2 0 0 1 2-2zM12 9V5M12 4h.01M9 14h.01M15 14h.01M9.5 17h5" transform="scale(0.8333)"/>
+  </g>
+  <text x="63.4" y="27" text-anchor="middle" fill="#e6edf3" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif" font-size="14" font-weight="600">Botify</text>
+</svg>
