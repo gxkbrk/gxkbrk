@@ -28,9 +28,13 @@
 
 <br />
 
-### Activity
+<p align="center">
+  <img src="assets/divider.svg" alt="" />
+</p>
+
+<br />
 
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=gxkbrk&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&custom_title=GitHub%20Stats&line_height=28&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub stats" />
-  <a href="https://open.spotify.com/user/o8ngc9y3yfg033qpiglxhmobh"><img height="200" src="https://spotify-recently-played-readme.vercel.app/api?user=o8ngc9y3yfg033qpiglxhmobh&count=3&width=400" alt="Recently played on Spotify" /></a>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gxkbrk&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs&hide_rank=true&custom_title=GitHub%20Stats&theme=tokyonight&card_width=400&line_height=46&bg_color=151b23&border_color=2a323d&border_radius=10" alt="GitHub stats" />
+  <a href="https://open.spotify.com/user/o8ngc9y3yfg033qpiglxhmobh"><img width="48%" src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=o8ngc9y3yfg033qpiglxhmobh&count=3" alt="Recently played on Spotify" /></a>
 </p>
